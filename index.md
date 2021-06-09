@@ -1,8 +1,9 @@
 ## Kang Xue
 
+I am a Research Scientist @ NWEA. My research interests are psychometrics, eduational data mining, machine leaning, computer vision, and natural language processing. I obtained my Ph.D. in Educational Psychology at the University of Georgia in 2020. I also hold another Ph.D. in Electrical Engineering from Beijing Institute of Techology. From 2013 to 2015, I served as a Senior Research Engineer at Samsung R&D Center - Beijing.  
 <!-- You can use the [editor on GitHub](https://github.com/kangxue622/kangxue622.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ### Markdown
 

@@ -29,7 +29,7 @@ Syntax highlighted code block
  -->
 ### Publication
 
-My publication list can be found [**here**](https://scholar.google.com/citations?user=JNvEW10AAAAJ&hl=en)
+My publication list can be found [**here**](https://www.researchgate.net/profile/Kang-Xue)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

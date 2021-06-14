@@ -7,7 +7,7 @@ I am a Research Scientist @ [NWEA](https://www.nwea.org/). My research interests
 
 ### Research Topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+ -->
 ### Publication
 
 My publication list can be found [**here**](https://scholar.google.com/citations?user=JNvEW10AAAAJ&hl=en)

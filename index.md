@@ -26,10 +26,10 @@ Syntax highlighted code block
  -->
 ### Publication
 
-My publication list can be found at my [**researchgate page**](https://www.researchgate.net/profile/Kang-Xue) or [**google scholar page**](https://scholar.google.com/citations?user=JNvEW10AAAAJ&hl=en)
+Full publication list can be found at my [**researchgate page**](https://www.researchgate.net/profile/Kang-Xue) and [**google scholar page**](https://scholar.google.com/citations?user=JNvEW10AAAAJ&hl=en)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ -->
 <!-- ### Jekyll Themes -->
 
 <!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kangxue622/kangxue622.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->

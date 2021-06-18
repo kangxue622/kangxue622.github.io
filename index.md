@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 Full publication list can be found at my [**researchgate page**](https://www.researchgate.net/profile/Kang-Xue) and [**google scholar page**](https://scholar.google.com/citations?user=JNvEW10AAAAJ&hl=en)
 
+### Patents
+
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
  -->
 <!-- ### Jekyll Themes -->
